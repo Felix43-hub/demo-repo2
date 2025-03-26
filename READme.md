@@ -4,4 +4,4 @@ Some text!
 
 ## subheader
 
-Watch tutorial on You tube for a fee
+Watch tutorial on You tube for a free
